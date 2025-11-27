@@ -1,0 +1,120 @@
+# Module 01 – Introduction to Ethical Hacking
+
+## 🎯 Learning Objectives
+
+At the end of this module, you should be able to:
+- Describe the elements of information security  
+- Explain information security attacks and information warfare  
+- Understand hacking concepts and hacker classifications  
+- Explain ethical hacking concepts and AI-driven ethical hacking  
+- Describe hacking methodologies and frameworks  
+- Understand key information security controls:
+  - Information assurance  
+  - Defense-in-depth  
+  - Risk management  
+  - Cyber threat intelligence  
+  - Threat modeling  
+  - Incident management  
+  - AI/ML  
+- Understand various information security acts and laws  
+
+---
+
+## 🧨 Why Study Ethical Hacking?
+
+Attackers break into systems for many reasons—financial gain, espionage, disruption, thrill, revenge, etc.  
+To defend systems effectively, security professionals must understand:
+- How attackers think  
+- How they exploit systems  
+- Why they attack  
+
+As Sun Tzu said in *The Art of War*:  
+**“Know your enemy.”**
+
+---
+
+# 🔐 Information Security Concepts
+
+Information security refers to the protection of information and information systems that **store, process, and transmit data**, preventing:
+- Unauthorized access  
+- Disclosure  
+- Alteration  
+- Destruction  
+
+Information is a critical asset. If compromised, an organization may face:
+- Financial loss  
+- Reputation damage  
+- Customer loss  
+- Legal consequences  
+
+This section introduces the **5 elements of information security**.
+
+---
+
+## 🛡️ Elements of Information Security (CIAAN)
+
+Information security is based on five foundational principles:
+
+---
+
+### 1️⃣ Confidentiality  
+Ensures information is accessible **only to authorized individuals**.
+
+**Controls include:**  
+- Data classification  
+- Data encryption  
+- Secure disposal of devices  
+
+Improper handling or hacking attempts may lead to confidentiality breaches.
+
+---
+
+### 2️⃣ Integrity  
+Ensures data is **accurate, trustworthy, and unaltered**.
+
+Integrity protects against:
+- Unauthorized changes  
+- Data corruption  
+- Manipulation  
+
+**Controls include:**  
+- Checksums (to detect changes)  
+- Access control (restrict who can update/delete data)
+
+---
+
+### 3️⃣ Availability  
+Ensures systems are **accessible when needed** by authorized users.
+
+**Measures include:**  
+- Disk arrays (for Redundant systems and clustered machines)
+- Antivirus protection (to combat malware)
+- DDoS prevention systems  
+
+---
+
+### 4️⃣ Authenticity  
+Ensures data, users, and communications are **genuine**.
+
+**Controls include:**  
+- Biometrics  
+- Smart cards  
+- Digital certificates  
+
+Authenticity verifies that:
+- A user is genuine  
+- A transaction is legitimate  
+- Data has not been tampered with  
+
+---
+
+### 5️⃣ Non-Repudiation  
+Ensures that:
+- The sender **cannot deny** sending a message  
+- The receiver **cannot deny** receiving it  
+
+**Digital signatures** are commonly used to provide non-repudiation.
+
+---
+
+# 🧨 Information Security Attacks: Motives, Goals, and Objectives
