@@ -490,3 +490,114 @@ Distribution attacks are dangerous because:
 - Pre-installed backdoors by malicious vendors  
 - Tampered firmware shipped to organizations  
 
+---
+
+# ⚔️ Information Warfare (InfoWar)
+
+**Information Warfare (InfoWar)** refers to the use of information and communication technologies (ICT) to gain a competitive advantage over an opponent.  
+It involves using information as both a **weapon** and a **target**.
+
+Common information warfare "weapons" include:
+- Viruses, worms, Trojan horses  
+- Logic bombs, trapdoors  
+- Electronic jamming tools  
+- Penetration tools and exploit frameworks  
+- Nanomachines / micro attacks (theoretical/advanced)  
+
+---
+
+## 🧭 Categories of Information Warfare (Libicki’s Model)
+
+### 1️⃣ Command and Control Warfare (C2 Warfare)
+- Refers to the **degree of control** an attacker has over a compromised system or network.
+- Involves disrupting or taking over the decision-making systems of the opponent.
+
+---
+
+### 2️⃣ Intelligence-Based Warfare
+- Uses **sensor-based technologies** to corrupt or manipulate systems.
+- Centers around protecting or denying access to knowledge needed to dominate the battlespace.
+- Focuses on:
+  - System corruption  
+  - Knowledge disruption  
+  - Information dominance  
+
+---
+
+### 3️⃣ Electronic Warfare
+- Uses **radio-electronic** and **cryptographic** techniques to degrade or disrupt communication.
+- Radio-based: Attacks the physical medium of communication (signals, frequencies)
+- Crypto-based: Uses digital methods to disrupt or manipulate transmitted data.
+
+---
+
+### 4️⃣ Psychological Warfare
+- Uses propaganda, misinformation, and fear tactics to demoralize or manipulate the opponent.
+- Examples:
+  - Threat messages  
+  - Fake news  
+  - Fear-inducing broadcasts  
+
+---
+
+### 5️⃣ Hacker Warfare
+- Uses traditional hacking tools and malware to compromise digital infrastructure.
+- Purposes include:
+  - System shutdown  
+  - Data theft or manipulation  
+  - Monitoring  
+  - False messaging  
+  - Service theft  
+
+Common tools:
+- Viruses  
+- Logic bombs  
+- Trojan horses  
+- Sniffers  
+
+---
+
+### 6️⃣ Economic Warfare
+- Targets **financial systems** or **information flows** to damage a business or nation’s economy.
+- Also includes blocking or disrupting digital business operations.
+
+---
+
+### 7️⃣ Cyberwarfare
+- The broadest category.
+- Involves using information systems to target:
+  - Individuals  
+  - Organizations  
+  - Nations  
+
+Includes:
+- **Information terrorism**  
+- **Semantic attacks**: Take over systems while making them appear normal  
+- **Simula-warfare**: Simulated attacks for influence or intimidation  
+
+---
+
+# 🛡️ Defensive vs Offensive Information Warfare
+
+### **Defensive Information Warfare**
+Strategies and actions focused on:
+- Prevention  
+- Deterrence  
+- Alerts  
+- Detection  
+- Emergency preparedness  
+- Response  
+
+Goal: **Protect ICT assets and maintain operational continuity.**
+
+---
+
+### **Offensive Information Warfare**
+Actions aimed at attacking an opponent’s ICT assets, including:
+- Web application attacks  
+- Web server attacks  
+- Malware attacks  
+- MITM attacks  
+- System hacking  
+
+Goal: **Disrupt, compromise, or control enemy systems.**
